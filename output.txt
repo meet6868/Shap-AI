@@ -1,0 +1,143 @@
+NEW DATA:-
+
+-------------------------------------------------------------
+Weather Stats for - SURAT  || 23 Jun 2021 | 02:29:50 PM
+-------------------------------------------------------------
+Current temperature is: 32.99 deg C
+Current weather desc  haze:
+Current Humidity      : 62%
+Current wind speed    :3.09kmph
+
+
+
+
+NEW DATA:-
+
+-------------------------------------------------------------
+Weather Stats for - RAJKOT  || 23 Jun 2021 | 02:29:58 PM
+-------------------------------------------------------------
+Current temperature is: 32.73 deg C
+Current weather desc  overcast clouds:
+Current Humidity      : 47%
+Current wind speed    :4.99kmph
+
+
+
+
+NEW DATA:-
+
+-------------------------------------------------------------
+Weather Stats for - SURAT  || 23 Jun 2021 | 02:30:21 PM
+-------------------------------------------------------------
+Current temperature is: 32.99 deg C
+Current weather desc  haze:
+Current Humidity      : 62%
+Current wind speed    :3.09kmph
+
+
+
+
+NEW DATA:-
+
+-------------------------------------------------------------
+Weather Stats for - RAJKOT  || 23 Jun 2021 | 02:30:30 PM
+-------------------------------------------------------------
+Current temperature is: 32.73 deg C
+Current weather desc  overcast clouds:
+Current Humidity      : 47%
+Current wind speed    :4.99kmph
+
+
+
+
+NEW DATA:-
+
+-------------------------------------------------------------
+Weather Stats for - VIKAS  || 23 Jun 2021 | 02:32:37 PM
+-------------------------------------------------------------
+Current temperature is: 14.03 deg C
+Current weather desc  scattered clouds:
+Current Humidity      : 94%
+Current wind speed    :1.54kmph
+
+
+
+
+NEW DATA:-
+
+-------------------------------------------------------------
+Weather Stats for - NEEL  || 23 Jun 2021 | 02:32:51 PM
+-------------------------------------------------------------
+Current temperature is: 14.56 deg C
+Current weather desc  clear sky:
+Current Humidity      : 85%
+Current wind speed    :1.2kmph
+
+
+
+
+NEW DATA:-
+
+-------------------------------------------------------------
+Weather Stats for - SURAT  || 23 Jun 2021 | 02:34:31 PM
+-------------------------------------------------------------
+Current temperature is: 32.99 deg C
+Current weather desc  haze:
+Current Humidity      : 62%
+Current wind speed    :3.09kmph
+
+
+
+
+NEW DATA:-
+
+-------------------------------------------------------------
+Weather Stats for - BOMBAY  || 23 Jun 2021 | 02:35:00 PM
+-------------------------------------------------------------
+Current temperature is: 31.99 deg C
+Current weather desc  haze:
+Current Humidity      : 70%
+Current wind speed    :5.66kmph
+
+
+
+
+NEW DATA:-
+
+-------------------------------------------------------------
+Weather Stats for - DELHI  || 23 Jun 2021 | 02:35:15 PM
+-------------------------------------------------------------
+Current temperature is: 39.05 deg C
+Current weather desc  haze:
+Current Humidity      : 25%
+Current wind speed    :2.06kmph
+
+
+
+
+NEW DATA:-
+
+-------------------------------------------------------------
+Weather Stats for - RANCHI  || 23 Jun 2021 | 02:35:27 PM
+-------------------------------------------------------------
+Current temperature is: 28.06 deg C
+Current weather desc  haze:
+Current Humidity      : 74%
+Current wind speed    :2.06kmph
+
+
+
+
+NEW DATA:-
+
+-------------------------------------------------------------
+Weather Stats for - RAJKOT  || 23 Jun 2021 | 02:35:41 PM
+-------------------------------------------------------------
+Current temperature is: 32.73 deg C
+Current weather desc  overcast clouds:
+Current Humidity      : 47%
+Current wind speed    :4.99kmph
+
+
+
+
